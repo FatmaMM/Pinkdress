@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" formatted="true" translatable="true">Pink dress</string>
+    <string name="web">www.pink.com</string>
+    <string name="decription">Pink Dress Is A New Women Fashion In Egypt.Our Products Have Great Quality.</string>
+    <string name="address" >Assiut,Yossry Raghp Street</string>
+    <string name="work">
+        we open daily from 9:00 AM to 11:00 PM
+    </string>
+    <string name="email" >pinkdress@yahoo.com</string>
+    <string name="phone">000123999</string>
+</resources>
